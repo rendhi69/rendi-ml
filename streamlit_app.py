@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 KONTOL")
+st.title("🎈 RENDI NAGUD")
 st.write(
    "<marquee>RENDI ML</marquee>"
 ) 
