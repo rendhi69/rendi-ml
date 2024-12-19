@@ -1,6 +1,6 @@
 import streamlit as st
 
 st.title("🎈 RENDI NAGUD")
-st.write(
-   <marquee>RENDI ML</marquee>
+st.html(
+   "<marquee><h1>RENDI ML</h1></marquee>"
 ) 
